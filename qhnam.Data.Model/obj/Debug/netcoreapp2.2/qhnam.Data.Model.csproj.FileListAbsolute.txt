@@ -1,0 +1,12 @@
+C:\.Net\qhnam.webshop\qhnam.Data.Model\bin\Debug\netcoreapp2.2\qhnam.Data.Model.deps.json
+C:\.Net\qhnam.webshop\qhnam.Data.Model\bin\Debug\netcoreapp2.2\qhnam.Data.Model.dll
+C:\.Net\qhnam.webshop\qhnam.Data.Model\bin\Debug\netcoreapp2.2\qhnam.Data.Model.pdb
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.csprojAssemblyReference.cache
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.csproj.CoreCompileInputs.cache
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.AssemblyInfoInputs.cache
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.AssemblyInfo.cs
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.dll
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.pdb
+C:\.Net\qhnam.webshop\qhnam.Data.Model\bin\Debug\netcoreapp2.2\qhn.Data.Entity.dll
+C:\.Net\qhnam.webshop\qhnam.Data.Model\bin\Debug\netcoreapp2.2\qhn.Data.Entity.pdb
+C:\.Net\qhnam.webshop\qhnam.Data.Model\obj\Debug\netcoreapp2.2\qhnam.Data.Model.csproj.CopyComplete

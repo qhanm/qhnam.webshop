@@ -1,0 +1,11 @@
+C:\.Net\qhnam.webshop\qhn.Data.Entity\bin\Debug\netcoreapp2.2\qhn.Data.Entity.deps.json
+C:\.Net\qhnam.webshop\qhn.Data.Entity\bin\Debug\netcoreapp2.2\qhn.Data.Entity.dll
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.csprojAssemblyReference.cache
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.csproj.CoreCompileInputs.cache
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.AssemblyInfoInputs.cache
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.AssemblyInfo.cs
+C:\.Net\qhnam.webshop\qhn.Data.Entity\bin\Debug\netcoreapp2.2\qhn.Data.Entity.pdb
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.dll
+C:\.Net\qhnam.webshop\qhn.Data.Entity\obj\Debug\netcoreapp2.2\qhn.Data.Entity.pdb
+C:\.Net\qhnam.webshop\qhn.Data.Entity\bin\Debug\netcoreapp2.2\qhn.Data.Entity.runtimeconfig.json
+C:\.Net\qhnam.webshop\qhn.Data.Entity\bin\Debug\netcoreapp2.2\qhn.Data.Entity.runtimeconfig.dev.json
